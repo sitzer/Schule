@@ -75,6 +75,12 @@
          "id":19,
          "name":"oW-h5p",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/workadventure\/wp-admin\/admin-ajax.php?action=h5p_embed&id=1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
